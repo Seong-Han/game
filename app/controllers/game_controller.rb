@@ -96,7 +96,7 @@ class GameController < ApplicationController
      "성한이가 생각나서": "https://scontent-sit4-1.xx.fbcdn.net/v/t1.0-9/945866_984228218315028_3380521421580753836_n.jpg?oh=817a8504e6620d507d2a0ba83bd44626&oe=599920A2",
      "전공 성적이 F라서": "http://scontent.cdninstagram.com/t51.2885-15/s480x480/e15/10852666_362497357254500_1460952441_n.jpg?ig_cache_key=ODgyOTE1MDM4NDMxMzA3NzI3.2",
      "전역한 게 꿈이라서": "http://cfile24.uf.tistory.com/image/14536C4350B1CCB60F6D18",
-     "사실 또라이라서": "http://www.mediaus.co.kr/news/photo/201001/9209_14613_5852.jpg",
+     "사실 또라이라서": "http://www.mediaus.co.kr/news/photo/201001/9209_14613_5852.jpg"
   
      }
      reason_hash = reason.to_a.sample(1)
